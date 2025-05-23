@@ -25,20 +25,6 @@ This directory focuses on preparing raw datasets through profiling, ETL processi
 
 ---
 
-## Folder Structure
-├── ydata-profiling/
-│ ├── xml_conversion.py
-│ ├── ydata-profiling.ipynb
-│ ├── ydata-profiling_Chicago_Food_Inspection_Data.html
-│ └── ydata-profiling_Dallas_Food_Inspection_Data.html
-├── talend-staging-workflows/
-├── stage-table-DDL-scripts/
-│ ├── stg_chicago_food_inspection.sql
-│ └── stg_dallas_food_inspection.sql
-└── README.md
-
----
-
 ## Purpose
 
 This stage ensures that:
